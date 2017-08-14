@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Cupon.cs" />
+    <Compile Include="CuponGroup.cs" />
+    <Compile Include="CuponManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Starter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

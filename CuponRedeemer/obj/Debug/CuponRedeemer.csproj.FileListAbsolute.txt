@@ -1,0 +1,6 @@
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\bin\Debug\CuponRedeemer.exe.config
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\bin\Debug\CuponRedeemer.exe
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\bin\Debug\CuponRedeemer.pdb
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\obj\Debug\CuponRedeemer.csprojResolveAssemblyReference.cache
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\obj\Debug\CuponRedeemer.exe
+C:\Users\Furnace\Documents\Visual Studio 2015\Projects\CuponRedeemer\CuponRedeemer\obj\Debug\CuponRedeemer.pdb
